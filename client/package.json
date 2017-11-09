@@ -1,0 +1,16 @@
+{
+  "name": "map_track_client",
+  "version": "1.0.0",
+  "description": "Client part of map tracker",
+  "main": "client.js",
+  "scripts": {
+    "start": "node client"
+  },
+  "dependencies": {
+    "express": "~4.15.3",
+    "cors": "~2.8.3",
+    "body-parser": "~1.17.2"
+  },
+  "author": "Nithin",
+  "license": "ISC"
+}
